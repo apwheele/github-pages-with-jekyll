@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Andrew Wheeler GitHub Blog
+author: Andrew Wheeler
+email: apwheele@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  To host things I cannot on my free wordpress site
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: CrimAndyW
+github_username:  apwheele
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
